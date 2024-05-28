@@ -1,4 +1,4 @@
-// krushkal algo MST 
+// kruskal's algo MST 
 
 #include<bits/stdc++.h>
 
