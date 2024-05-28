@@ -1,6 +1,20 @@
 # Graph-DSA
+![image](https://github.com/ayusharyan143/Graph-DSA-/assets/141620322/36e134b1-50e2-430d-a0b6-8ca8313d4af5)
+
+
+Released: 28 May, 2024
+
+Written by Ayush Aryan.
+
+(C) Copyright 2024-2025, by Ayush Aryan . All rights reserved.
+
+Please address all contributions, suggestions, and inquiries to the user mailing list
+
+
 
 Welcome to the Graph-DSA repository! This repository contains various algorithms and problems related to Graph Data Structures and Algorithms (DSA). Below is a list of implemented algorithms and their descriptions.
+
+
 
 ## Table of Contents
 
