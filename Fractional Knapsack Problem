@@ -1,4 +1,4 @@
-// Fractional Knapsack 
+ //  Fractional Knapsack Problem
 
 #include<bits/stdc++.h>
 using namespace std ; 
